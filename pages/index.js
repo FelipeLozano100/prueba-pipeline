@@ -57,7 +57,7 @@ export default function Home() {
               priority
             />
           </div>
-          <p>Hola Mundo</p>
+          <p>Hola Mundo pipeline 2</p>
         </div>
 
         <div className={styles.grid}>
